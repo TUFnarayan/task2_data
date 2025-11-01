@@ -36,7 +36,7 @@ cd rag_chatbot
 2️⃣ Create & Activate Virtual Environment
 python -m venv venv
 venv\Scripts\activate      # Windows
-# source venv/bin/activate   # macOS/Linux
+ source venv/bin/activate   # macOS/Linux
 
 3️⃣ Install Requirements
 pip install -r requirements.txt
